@@ -14,11 +14,13 @@ Hi, I'm @iandiv, a self-taught developer with experience in web development, des
 • Desktop Application Development: 
 
     • Java
+    • C# (.NET)
     
 
 • Mobile Application Development: 
 
     • Java (Android)
+    • Ionic Framework(Angular)
 
 # Interests
 In addition to my technical skills, I am also interested in exploring new technologies and learning new programming languages. I am passionate about staying up-to-date with the latest trends and best practices in the field of development.
