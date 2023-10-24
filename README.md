@@ -1,38 +1,33 @@
 
-# About Me
-Hi, I'm @iandiv, a self-taught developer with experience in web development, desktop application development using Java, and Android application development using Java. . I am passionate about coding and always eager to learn new technologies and languages. I am passionate about learning and improving my skills in the field of development. I am earning money through commission for making college system projects, which has given me valuable experience in project management and client relations.
 
-# Skills
-• Web Development: 
-    
-    • HTML
-    • CSS
-    • JavaScript    
-    • jQuery    
-    • MySQL
+# Hi, I'm Ian! ![](https://komarev.com/ghpvc/?username=iandiv)
 
-• Desktop Application Development: 
+I'm a passionate self-taught developer with a deep love for coding and a hunger for learning new technologies. I have experience in web development, desktop application development using Java and C#, and Android application development using Java. I also earn money through commissioned college system projects, which has given me valuable experience in project management and client relations.
 
-    • Java
-    • C# (.NET)
-    
+## 💻 Skills
 
-• Mobile Application Development: 
+- **Web Development:** 
+  - HTML
+  - CSS
+  - JavaScript
+  - jQuery
+  - MySQL
 
-    • Java (Android)
-    • Ionic Framework(Angular)
+- **Desktop Application Development:** 
+  - Java
+  - C# (.NET)
 
-# Interests
-In addition to my technical skills, I am also interested in exploring new technologies and learning new programming languages. I am passionate about staying up-to-date with the latest trends and best practices in the field of development.
+- **Mobile Application Development:** 
+  - Java (Android)
 
-# Personal Qualities
-I am a dedicated, hard-working, and self-motivated developer who is always eager to learn and improve my skills. I am passionate about coding and am constantly seeking new challenges and opportunities to expand my knowledge. I am able to work independently or as part of a team, and am always willing to go the extra mile to ensure that projects are completed to the highest standards.
+## 🚀 Interests
+
+In addition to my technical skills, I'm always excited to explore new technologies and learn new programming languages. Staying up-to-date with the latest trends and best practices in the field of development is something I'm truly passionate about.
+
+## 👨‍💼 Personal Qualities
+
+I consider myself a dedicated, hard-working, and self-motivated developer who is committed to continuous improvement. My passion for coding drives me to embrace new challenges and opportunities to expand my knowledge. I thrive both working independently and as part of a team, always ready to go the extra mile to ensure that projects are completed to the highest standards.
 
 
-<!--- Hi, I’m @iandiv
-- I’m interested in coding
-- A college student and currently taking BSIT Course
 
-iandiv/iandiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- You can customize this section with your own social media links and badges. -->
