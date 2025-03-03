@@ -1,5 +1,5 @@
 
-# Hi, I'm Ian! ![](https://komarev.com/ghpvc/?username=iandiv)
+# Hi, I'm IanDiv! ![](https://komarev.com/ghpvc/?username=iandiv)
 
 I'm a passionate self-taught developer with a deep love for coding and a hunger for learning new technologies. I have experience in web development, desktop application development using Java and C#, and Android application development using Java. I also earn money through commissioned college system projects, which has given me valuable experience in project management and client relations.
 
