@@ -7,8 +7,9 @@
 
 ## About
 <div>
-Self-taught developer passionate about creating solutions across multiple platforms. From web and desktop applications to Android development, I'm always eager to tackle new challenges.
+Backend web developer passionate about building real-world systems. Professionally, I focus on web backend projects, while GitHub showcases my Windows utilities and other personal projects. Always learning, experimenting, and exploring new challenges.
 </div>
+
 
 ## Tech Stack
 
